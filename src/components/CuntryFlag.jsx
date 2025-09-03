@@ -5,6 +5,8 @@ const CuntryCard=({flag,name})=>{
     return(
         <div
             style={{
+
+                
                 height:"200px",
                 width:"200px",
                 border:"1px solid black",
